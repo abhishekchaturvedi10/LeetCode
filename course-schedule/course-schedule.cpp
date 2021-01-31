@@ -22,9 +22,7 @@ public:
     {
         vector<vector<int>>graph(numCourses,vector<int>());
         for(int i=0;i<prerequisites.size();i++){
-            int u=prerequisites[i][0];
-            int v=prerequisites[i][1];
-            graph[u].push_back(v);
+            graph[prerequisites[i][0]].push_back(prerequisites[i][1]);
             
         }
         color.assign(numCourses,0);
