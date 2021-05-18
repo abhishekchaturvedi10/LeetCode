@@ -1,3 +1,4 @@
+[Discussion Post (created on 18/4/2021 at 21:4)](https://leetcode.com/problems/find-right-interval/discuss/1216199/O(nlogn)-oror-Easy-to-understand-oror-Lower_bound-oror-Binary-search-oror-C%2B%2B-oror-Sorting)  
 <h2>436. Find Right Interval</h2><h3>Medium</h3><hr><div><p>You are given an array of&nbsp;<code>intervals</code>, where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code>&nbsp;and each <code>start<sub>i</sub></code>&nbsp;is <strong>unique</strong>.</p>
 
 <p>The <strong>r</strong><strong>ight</strong><strong>&nbsp;interval</strong>&nbsp;for an interval <code>i</code> is an interval&nbsp;<code>j</code>&nbsp;such that <code>start<sub>j</sub></code><code>&nbsp;&gt;= end<sub>i</sub></code>&nbsp;and&nbsp;<code>start<sub>j</sub></code>&nbsp;is&nbsp;<strong>minimized</strong>.</p>
