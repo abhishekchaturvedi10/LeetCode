@@ -1,3 +1,4 @@
+[Discussion Post (created on 19/4/2021 at 0:21)](https://leetcode.com/problems/maximum-binary-tree-ii/discuss/1216544/C%2B%2B-oror-O(n)-oror-4ms-oror-Easy-to-understand-oror-Recursion-oror-DFS-oror-Well-commented)  
 <h2>998. Maximum Binary Tree II</h2><h3>Medium</h3><hr><div><p>We are given the <code>root</code>&nbsp;node of a <em>maximum tree:</em> a tree where every node has a value greater than any other value in its subtree.</p>
 
 <p>Just as in the <a href="https://leetcode.com/problems/maximum-binary-tree/">previous problem</a>, the given tree&nbsp;was constructed from an list&nbsp;<code>A</code>&nbsp;(<code>root = Construct(A)</code>) recursively with the following&nbsp;<code>Construct(A)</code> routine:</p>
