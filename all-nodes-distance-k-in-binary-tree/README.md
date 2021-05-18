@@ -1,3 +1,4 @@
+[Discussion Post (created on 18/4/2021 at 20:58)](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/1216188/0-ms-oror-100-oror-DFS-oror-Root-to-node-path-oror-nodes-at-distance-k-from-a-node-oror-Easy)  
 <h2>863. All Nodes Distance K in Binary Tree</h2><h3>Medium</h3><hr><div><p>We are given a binary tree (with root node&nbsp;<code>root</code>), a <code>target</code> node, and an integer value <code>k</code>.</p>
 
 <p>Return a list of the values of all&nbsp;nodes that have a distance <code>k</code> from the <code>target</code> node.&nbsp; The answer can be returned in any order.</p>
