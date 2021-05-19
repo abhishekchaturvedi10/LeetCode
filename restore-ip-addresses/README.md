@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/4/2021 at 1:17)](https://leetcode.com/problems/restore-ip-addresses/discuss/1218562/C%2B%2B-oror-Clear-oror-Easy-understandiing)  
 <h2>93. Restore IP Addresses</h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code> containing only digits, return all possible valid IP addresses that can be obtained from <code>s</code>. You can return them in <strong>any</strong> order.</p>
 
 <p>A <strong>valid IP address</strong> consists of exactly four integers, each integer is between <code>0</code> and <code>255</code>, separated by single dots and cannot have leading zeros. For example, "0.1.2.201" and "192.168.1.1" are <strong>valid</strong> IP addresses and "0.011.255.245", "192.168.1.312" and "192.168@1.1" are <strong>invalid</strong> IP addresses.&nbsp;</p>
