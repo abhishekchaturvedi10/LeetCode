@@ -2,14 +2,14 @@ class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
         
-        vector<vector<pair<int,int>>> g(n+1);
+        vector<vector<vector<int>>> g(n+1);
         
         for(auto time:times)
             g[time[0]].push_back({time[1],time[2]});
                 
-        queue<pair<int,int>> q;
+        queue<int> q;
         
-        q.push({k,0});
+        q.push(k);
         
         vector<int> delay(n+1,INT_MAX);
         
@@ -19,16 +19,16 @@ public:
                         
             int sz=q.size();
             
-            while(sz--){
+            for(int i=0;i<sz;i++){
                 
-                auto u=q.front();
+                int u=q.front();
                 
                 q.pop();
                                 
-                for(auto j:g[u.first]){
-                    if(delay[j.first]>j.second+delay[u.first]){
-                        q.push({j.first,j.second+delay[u.first]});
-                        delay[j.first]=j.second+delay[u.first];
+                for(auto j:g[u]){
+                    if(delay[j[0]]>j[1]+delay[u]){
+                        q.push(j[0]);
+                        delay[j[0]]=j[1]+delay[u];
                     }
                 }
             }
