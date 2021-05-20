@@ -17,19 +17,14 @@ public:
                 
         while(!q.empty()){
                         
-            int sz=q.size();
-            
-            for(int i=0;i<sz;i++){
+            int u=q.front();
                 
-                int u=q.front();
-                
-                q.pop();
+            q.pop();
                                 
-                for(auto j:g[u]){
-                    if(delay[j[0]]>j[1]+delay[u]){
-                        q.push(j[0]);
-                        delay[j[0]]=j[1]+delay[u];
-                    }
+            for(auto j:g[u]){
+                if(delay[j[0]]>j[1]+delay[u]){
+                    q.push(j[0]);
+                    delay[j[0]]=j[1]+delay[u];
                 }
             }
         }
