@@ -20,9 +20,6 @@ public:
             }
         }
         
-        if(dist[dst][kk+1]==INT_MAX)
-            return -1;
-        
-        return dist[dst][kk+1];
+        return dist[dst][kk+1]==INT_MAX?-1:dist[dst][kk+1];
     }
 };
