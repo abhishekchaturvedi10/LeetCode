@@ -22,23 +22,21 @@ public:
         
             while(!q.empty()){
             
-                int i=q.front();
+                int sz=q.size();
+                
+                while(sz--){
+                
+                    int i=q.front();
             
-                q.pop();
+                    q.pop();
             
-                for(int j:g[i]){
+                    for(int j:g[i]){
                     
-                    if(color[j]==color[i])
-                        return 0;
+                        if(color[j]==color[i])
+                            return 0;
                     
-                    if(color[j]==-1){
-                        
-                        if(color[i]==0)
-                            color[j]=1;
-                        else
-                            color[j]=0;
-                        
-                        q.push(j);
+                        if(color[j]==-1)
+                            color[j]=color[i]==0?1:0, q.push(j);
                     }
                 }
             }
