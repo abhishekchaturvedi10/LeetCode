@@ -46,10 +46,8 @@ public:
         vector<int> res(n);
         
         for(int i=0;i<n;i++){
-            if(res1[i]==INT_MAX&&res2[i]==INT_MAX)
-                res[i]=-1;
-            else
-                res[i]=min(res1[i],res2[i]);
+            int mini=min(res1[i],res2[i]);
+            res[i]=mini==INT_MAX?-1:mini;
         }
         
         return res;
