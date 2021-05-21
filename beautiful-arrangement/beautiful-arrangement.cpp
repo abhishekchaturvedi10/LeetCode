@@ -1,30 +1,26 @@
 class Solution {
 public:
     
-    int rec(int i, int n, vector<int> &nums){
+    int res;
+    
+    void rec(int i, int n, vector<int> &nums){
         
-        if(i==n){
-            
-            for(int i=1;i<=n;i++)
-                if(nums[i]%i&&i%nums[i])
-                    return 0;
-            
-            return 1;
+        if(i==n+1){
+            res++;
+            return;
         }
         
-        int x=0;
-        
         for(int j=i;j<=n;j++){
+                        
+            if(nums[j]%i&&i%nums[j])
+                continue;
+            
+            swap(nums[i],nums[j]);
                 
-                swap(nums[i],nums[j]);
+            rec(i+1,n,nums);
                 
-                if(nums[i]%i==0||i%nums[i]==0)
-                    x+=rec(i+1,n,nums);
-                
-                swap(nums[i],nums[j]);
+            swap(nums[i],nums[j]);
         }  
-        
-        return x;
     }
     
     int countArrangement(int n) {
@@ -34,6 +30,10 @@ public:
         for(int i=0;i<=n;i++)
             nums.push_back(i);
         
-        return rec(1,n,nums);
+        res=0;
+        
+        rec(1,n,nums);
+        
+        return res;
     }
 };
