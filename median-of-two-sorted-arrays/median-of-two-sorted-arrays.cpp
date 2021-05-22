@@ -1,8 +1,8 @@
 class Solution {
 public:
     
-    int kth(int *arr1, int *arr2, int *end1, int *end2, int k)
-    {   
+    int kth(int *arr1, int *arr2, int *end1, int *end2, int k) {   
+        
         if (arr1 == end1)
             return arr2[k];
 
@@ -19,13 +19,11 @@ public:
             
             return kth(arr1 + mid1 + 1, arr2, end1, end2, k - mid1 - 1);
         }
-        else {
-
-            if (arr1[mid1] > arr2[mid2])
+        
+        if (arr1[mid1] > arr2[mid2])
                 return kth(arr1, arr2, arr1 + mid1, end2, k);
             
-            return kth(arr1, arr2, end1, arr2 + mid2, k);
-        }
+        return kth(arr1, arr2, end1, arr2 + mid2, k);
     }
 
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
@@ -33,14 +31,18 @@ public:
         int m=nums1.size(), n=nums2.size();
         
         if(m==0){
+            
             if(n&1)
                 return nums2[n/2];
+            
             return ((double)(nums2[n/2]+nums2[n/2-1]))/2;
         }
         
         if(n==0){
+            
             if(m&1)
                 return nums1[m/2];
+            
             return ((double)(nums1[m/2]+nums1[m/2-1]))/2;
         }
         
