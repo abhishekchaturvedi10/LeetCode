@@ -1,3 +1,4 @@
+[Discussion Post (created on 23/4/2021 at 0:50)](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/1224142/C%2B%2B-or-EZ-or-100-time-or-Two-maps-and-multiset-or-DFS)  
 <h2>987. Vertical Order Traversal of a Binary Tree</h2><h3>Hard</h3><hr><div><p>Given the <code>root</code> of a binary tree, calculate the <strong>vertical order traversal</strong> of the binary tree.</p>
 
 <p>For each node at position <code>(row, col)</code>, its left and right children will be at positions <code>(row + 1, col - 1)</code> and <code>(row + 1, col + 1)</code> respectively. The root of the tree is at <code>(0, 0)</code>.</p>
