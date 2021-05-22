@@ -1,3 +1,4 @@
+[Discussion Post (created on 22/4/2021 at 16:48)](https://leetcode.com/problems/bulb-switcher-iii/discuss/1223355/C%2B%2B-or-Very-easy-or-O(n)-or-O(1)-space-or-Math)  
 <h2>1375. Bulb Switcher III</h2><h3>Medium</h3><hr><div><p>There is a room with <code>n</code> bulbs, numbered from <code>1</code> to <code>n</code>, arranged in a row from left to right. Initially, all the bulbs are turned off.</p>
 
 <p>At moment <em>k</em> (for <em>k</em> from <code>0</code> to <code>n - 1</code>), we turn on the <code>light[k]</code> bulb. A bulb <strong>change&nbsp;color to blue</strong> only if it is on and all the previous bulbs (to the left)&nbsp;are turned on too.</p>
