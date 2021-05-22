@@ -12,7 +12,7 @@
 class Solution {
 public:
     
-    map<pair<int,int>,vector<int>> m;
+    map<pair<int,int>,multiset<int>> m;
     
     void dfs(TreeNode* root, int x, int y){
         
@@ -23,7 +23,7 @@ public:
         
         dfs(root->right, x+1, y+1);
         
-        m[{x,y}].push_back(root->val);
+        m[{x,y}].insert(root->val);
     }
     
     vector<vector<int>> verticalTraversal(TreeNode* root) {
@@ -32,8 +32,8 @@ public:
         
         vector<vector<int>> res;
         
-        for(auto& i:m)
-            sort(i.second.begin(),i.second.end());
+        // for(auto& i:m)
+        //     sort(i.second.begin(),i.second.end());
         
         map<int,vector<int>> mm;
         
