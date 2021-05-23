@@ -43,9 +43,9 @@ public:
                 
                 vis1[arr[f]]=1;
                 
-                for(int i=0;i<=m[arr[f]].size()-1;i++)
-                    if(!vis[m[arr[f]][i]]&&m[arr[f]][i]!=f)
-                        q.push(m[arr[f]][i]);
+                for(int i:m[arr[f]])
+                    if(!vis[i]&&i!=f)
+                        q.push(i);
             }
             
             moves++;
