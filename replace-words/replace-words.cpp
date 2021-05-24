@@ -73,9 +73,8 @@ public:
             
             int j=i;
             
-            while(j<sentence.length()&&(sentence[j]>='a'&&sentence[j]<='z')){
+            while(j<sentence.length()&&(sentence[j]>='a'&&sentence[j]<='z'))
                 j++;
-            }
             
             string temp=sentence.substr(i,j-i);
             
@@ -86,7 +85,9 @@ public:
             bool found=0;
             
             for(int i=0;i<temp.length();i++){
+                
                 x+=temp[i];
+                
                 if(t->search(x)){
                     res+=x+' ';
                     found=1;
@@ -98,6 +99,8 @@ public:
                 res+=temp + ' ';
         }
         
-        return res.substr(0,res.length()-1);
+        res.pop_back();
+        
+        return res;
     }
 };
