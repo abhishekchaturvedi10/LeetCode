@@ -57,8 +57,14 @@ public:
                 node=node->children[word[i]-'a'];
             else{
                 
+                string x=word;
+                
                 for(int j=0;j<26;j++){
-                    string x=word.substr(0,i)+(char)(97+j)+word.substr(i+1,word.length()-1-i);
+                    
+                    // string x=word.substr(0,i)+(char)(97+j)+word.substr(i+1,word.length()-1-i);
+                    
+                    x[i]=(char)(97+j);
+                    
                     if(search(x))
                         return true;
                 }
