@@ -1,24 +1,15 @@
 class Solution {
 public:
-    int rangeBitwiseAnd(int left, int right) {
+    int rangeBitwiseAnd(int m, int n) {
         
-        if(!left)
-            return 0;
+        int cnt=0;
         
-        if(left==right)
-            return left;
-                        
-        if((int)log2(left)!=(int)log2(right))
-            return 0;
-        
-        for(long long i=left+1;i<=right;i++){
-            
-            left&=i;
-            
-            if(!left)
-                return 0;
+        while(n!=m){
+            n>>=1;
+            m>>=1;
+            cnt++;
         }
         
-        return left;
+        return m<<=cnt;
     }
 };
