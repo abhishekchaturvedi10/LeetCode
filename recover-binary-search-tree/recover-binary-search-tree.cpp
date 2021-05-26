@@ -37,7 +37,7 @@ public:
         vector<int> temp=traversal;
         
         sort(temp.begin(),temp.end());
-        
+
         int x=-1,y;
                 
         for(int i=0;i<temp.size();i++){
@@ -49,10 +49,8 @@ public:
             }
         }
         
-        if(x!=-1){
-            int temp=nodes[x]->val;
-            nodes[x]->val=nodes[y]->val;
-            nodes[y]->val=temp;
-        }
+        int tempval=nodes[x]->val;
+        nodes[x]->val=nodes[y]->val;
+        nodes[y]->val=tempval;
     }
 };
