@@ -18,10 +18,6 @@ public:
             return NULL;
         
         if(root->val==key){
-                        
-            TreeNode* dummy=new TreeNode(0);
-            
-            dummy->right=root;
             
             if(!root->left&&!root->right)
                 return NULL;
@@ -34,17 +30,18 @@ public:
             
             else{
                 
-                TreeNode *temp=root->left;
-                TreeNode *temp1=root->right;
+                TreeNode* dummy=new TreeNode(0);
+                            
+                TreeNode *tempright=root->right;
                 
-                root=temp;
+                root=root->left;
                 
                 dummy->right=root;
                 
                 while(root->right)
                     root=root->right;
                 
-                root->right=temp1;
+                root->right=tempright;
                 
                 return dummy->right;
             }
