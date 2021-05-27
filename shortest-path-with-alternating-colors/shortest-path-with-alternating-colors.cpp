@@ -13,6 +13,8 @@ public:
         if(prev==1&&res2[u]<dist)
             return;
         
+        // cout<<u<<" ";
+        
         if(prev==0)
             res1[u]=min(res1[u],dist);
         else
@@ -40,8 +42,9 @@ public:
         res1.assign(n, INT_MAX);
         res2.assign(n, INT_MAX);
         
-        dfs(0, 0, 0);
         dfs(0, 1, 0);
+        // cout<<endl;
+        dfs(0, 0, 0);
         
         vector<int> res(n);
         
