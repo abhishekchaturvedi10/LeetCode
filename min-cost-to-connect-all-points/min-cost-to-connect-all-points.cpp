@@ -24,12 +24,10 @@ public:
         
         while(!pq.empty()){
             
-            auto p=pq.top();
+            int u=pq.top()[1];
             
             pq.pop();
-            
-            int u=p[1];
-            
+                        
             if(inMst[u])
                 continue;
                         
