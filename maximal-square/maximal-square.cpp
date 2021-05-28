@@ -4,52 +4,25 @@ public:
         
         int m=matrix.size(), n=matrix[0].size();
         
-        int l=0, r=min(m,n), res=0;
+        vector<vector<int>> dp(m, vector<int>(n));
         
-        while(r>=l){
-            
-            int mid=l+(r-l)/2;
-                        
-            bool found=0;
-            
-            for(int i=0;i<m;i++){
+        int res=0;
+        
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 
-                if(i+mid>m)
-                    break;
-                                
-                for(int j=0;j<n;j++){
+                if(matrix[i][j]=='1'){
                     
-                    if(j+mid>n)
-                        break;
+                    dp[i][j]=1;
                     
-                    int isPresent=1;
-                    
-                    for(int k=i;k<i+mid;k++){
-                        for(int l=j;l<j+mid;l++){
-                            if(matrix[k][l]=='0'){
-                                isPresent=0;
-                            }
-                        }
-                    }
-                    
-                    if(isPresent){
-                        found=1;
-                        break;
-                    }
+                    if(i&&j)
+                        dp[i][j]+=min({dp[i-1][j], dp[i][j-1], dp[i-1][j-1]});
                 }
                 
-                if(found)
-                    break;
+                res=max(res,dp[i][j]);
             }
-            
-            if(found){
-                l=mid+1;
-                res=max(res,mid*mid);
-            }
-            else
-                r=mid-1;
         }
         
-        return res;
+        return res*res;
     }
 };
