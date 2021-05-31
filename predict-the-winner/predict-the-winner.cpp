@@ -3,23 +3,28 @@ public:
     
     int dp[25][25];
     
-    int total;
-    
     int rec(vector<int>& nums, int s, int e){
         
-        if(s==e)
-            return nums[s];
+        if(s>e)
+            return 0;
         
         if(dp[s][e]!=-1)
             return dp[s][e];
                 
-        return dp[s][e]=max({nums[s]-rec(nums,s+1,e), nums[e]-rec(nums,s,e-1)});
+        return dp[s][e]=max(nums[s]+min(rec(nums,s+2,e), rec(nums,s+1,e-1)), nums[e]+min(rec(nums,s,e-2),rec(nums,s+1,e-1)));
     }
     
     bool PredictTheWinner(vector<int>& nums) {
         
         memset(dp,-1,sizeof(dp));
         
-        return rec(nums,0,nums.size()-1)>=0;
+        int P1=rec(nums,0,nums.size()-1);
+                        
+        int tot=0;
+        
+        for(int i:nums)
+            tot+=i;
+        
+        return tot-P1<=P1;
     }
 };
