@@ -1,16 +1,26 @@
 class Solution {
 public:
-    int val=-1,ans;
-    void bs(vector<int>& arr, int l, int r, int n){
-        if(l>r||l<0||r>=n) return;
-        int mid=(l+r)/2;
-        if(arr[mid]>val) ans=mid;
-        val=max(val,arr[mid]);
-        bs(arr, l, mid-1, n);
-        bs(arr, mid+1, r, n);
-    }
-    int peakIndexInMountainArray(vector<int>& arr) {
-        bs(arr, 0, arr.size()-1, arr.size());
-        return ans;
-    }
+    int peakIndexInMountainArray(vector<int>& arr) {
+        
+        int l=0, r=arr.size()-1;
+        
+        while(r>l){
+            
+            int m=l+(r-l)/2;
+                        
+            if(m>0&&m<arr.size()-1&&(arr[m-1]<arr[m]&&arr[m]>arr[m+1]))
+                return m;
+            
+            if(arr[r]<arr[m]){
+                if(m==0||(m>0&&arr[m]>arr[m-1]))
+                    l=m+1;
+                else
+                    r=m;
+            }
+            else
+                l=m+1;
+        }
+        
+        return l;
+    }
 };
