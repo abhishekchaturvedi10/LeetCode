@@ -1,48 +1,28 @@
 class Solution {
 public:
-        
-    long long res;
     
-    int vis[20][20];
+    #define ll long long
     
-    void rec(int x, int y, vector<vector<int>>& g, long long p, int m, int n){
+    int maxProductPath(vector<vector<int>>& g) {
         
-        if(vis[x][y])
-            return;
+        vector<vector<vector<ll>>> dp(g.size(), vector<vector<ll>>(g[0].size()));
         
-        p*=g[x][y];
+        dp[0][0]={(ll)g[0][0],(ll)g[0][0]};
         
-        if(x==m-1&&y==n-1){
-            
-            if(p>=0)
-                res=max(res,p);
-            
-            return;
+        for(int i=1;i<g[0].size();i++)
+            dp[0][i]={min(g[0][i]*dp[0][i-1][0], g[0][i]*dp[0][i-1][1]), max(g[0][i]*dp[0][i-1][0], g[0][i]*dp[0][i-1][1])};
+        
+        for(int i=1;i<g.size();i++)
+            dp[i][0]={min(g[i][0]*dp[i-1][0][0], g[i][0]*dp[i-1][0][1]), max(g[i][0]*dp[i-1][0][0], g[i][0]*dp[i-1][0][1])};
+        
+        for(int i=1;i<g.size();i++){
+            for(int j=1;j<g[0].size();j++){
+                dp[i][j]={min({g[i][j]*dp[i-1][j][0], g[i][j]*dp[i-1][j][1], g[i][j]*dp[i][j-1][0], g[i][j]*dp[i][j-1][1]}), max({g[i][j]*dp[i-1][j][0], g[i][j]*dp[i-1][j][1], g[i][j]*dp[i][j-1][0], g[i][j]*dp[i][j-1][1]})};
+            }
         }
         
-        if(p==0){
-            res=max(res,p);
-            return;
-        }
+        ll res=max(dp[g.size()-1][g[0].size()-1][0],dp[g.size()-1][g[0].size()-1][1]);
         
-        vis[x][y]=1;
-        
-        if(x+1<m)
-            rec(x+1,y,g,p,m,n);
-        if(y+1<n)
-            rec(x,y+1,g,p,m,n);
-        
-        vis[x][y]=0;
-    }
-    
-    int maxProductPath(vector<vector<int>>& grid) {
-        
-        res=-1;
-        
-        memset(vis,0,sizeof(vis));
-        
-        rec(0,0,grid,1,grid.size(),grid[0].size());
-        
-        return res%1000000007;
+        return res<0?-1:res%1000000007;
     }
 };
