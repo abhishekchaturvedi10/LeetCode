@@ -7,16 +7,14 @@ public:
         for(int i:forbidden)
             s[i]=1;
         
-        if(s[0]||s[a])
+        if(s[0])
             return -1;
-        
-        vis1[0]=1;
         
         queue<vector<int>> q;
         
         q.push({0,1});
-        
-        // vis1[a]=1;
+                
+        vis1[0]=1;
         
         int steps=0;
         
@@ -32,21 +30,17 @@ public:
                 
                 if(v[0]==x)
                     return steps;
-                
-                // cout<<v[0]<<" "<<steps<<'\n';
-                
-                if(!s[v[0]+a]&&!vis1[v[0]+a]&&(v[0]+a<=6000)){
+                                
+                if(!s[v[0]+a]&&!vis1[v[0]+a]&&v[0]+a<=6000){
                     vis1[v[0]+a]=1;
                     q.push({v[0]+a,1});
                 }
                     
-                if(v[0]-b<0||v[1]==2)
+                if(v[0]-b<0||v[1]==2||s[v[0]-b]||vis2[v[0]-b])
                     continue;
                     
-                if(!s[v[0]-b]&&!vis2[v[0]-b]){
-                    vis2[v[0]-b]=1;
-                    q.push({v[0]-b,2});
-                }
+                vis2[v[0]-b]=1;
+                q.push({v[0]-b,2});
             }
             
             steps++;
