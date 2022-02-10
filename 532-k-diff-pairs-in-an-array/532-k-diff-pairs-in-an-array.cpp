@@ -4,42 +4,22 @@ public:
         
         if(nums.size()==1)
             return 0;
-     
-        int i=0, n=nums.size(), j=1, res=0;
         
-        sort(nums.begin(), nums.end());
+        map<int, int> m;
+                
+        for(int i:nums)
+            m[i]++;
         
-        while(j<n) {
-            
-            if(nums[j]-nums[i]==k) {
+        int res=0;
                 
-                res++;
+        for(auto i:m) {
+            if(m.find(i.first+k)!=m.end()){
+                if(k==0&&m[i.first]>1)
+                    res++;
                 
-                int ii=i;
-                while(ii<n&&nums[ii]==nums[i])
-                    ii++;
-                i=ii;
-                
-                ii=j;
-                while(ii<n&&nums[ii]==nums[j])
-                    ii++;
-                j=ii;
+                if(k!=0)
+                    res++;
             }
-            else if(nums[j]-nums[i]>k) {
-                int ii=i;
-                while(ii<n&&nums[ii]==nums[i])
-                    ii++;
-                i=ii;
-            }
-            else {
-                int ii=j;
-                while(ii<n&&nums[ii]==nums[j])
-                    ii++;
-                j=ii;
-            }
-                        
-            if(i>=j)
-                j=i+1;
         }
         
         return res;
