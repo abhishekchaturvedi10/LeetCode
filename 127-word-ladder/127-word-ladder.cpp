@@ -30,7 +30,7 @@ public:
                 
                 seen[s]++;
                 
-                for(auto ss:wordList) {
+                for(auto &ss:wordList) {
                     if(ss.size()==s.size()) {
                         int cnt=0;
                         for(int i=0;i<ss.size();i++) {
