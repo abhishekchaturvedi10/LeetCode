@@ -36,6 +36,8 @@ public:
                         for(int i=0;i<ss.size();i++) {
                             if(ss[i]!=s[i]){
                                 cnt++;
+                                if(cnt>1)
+                                    break;
                             }
                         }
                         if(cnt==1)
