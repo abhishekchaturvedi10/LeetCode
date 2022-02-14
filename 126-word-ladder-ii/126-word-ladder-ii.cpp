@@ -54,11 +54,7 @@ public:
     
     vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordLis) {
                         
-        int lol=fun(beginWord,endWord,wordLis);
-                        
-        if(lol==0) {
-            return {};
-        }
+        int lol=INT_MAX;
         
         unordered_set<string> wordList;
         
@@ -83,8 +79,9 @@ public:
                 
                 q.pop();  
                 
-                if(s.back()==endWord&&s.size()==lol) {
+                if(s.back()==endWord&&(lol==INT_MAX||s.size()==lol)) {
                     res.push_back(s);
+                    lol=s.size();
                     continue;
                 }
                 
