@@ -38,20 +38,20 @@ public:
                 wordList.erase(s.back());
                 
                 for(auto &ss:wordList) {
-                    if(ss.size()==s.back().size()) {
-                        int cnt=0;
-                        for(int i=0;i<ss.size();i++) {
-                            if(ss[i]!=s.back()[i]){
-                                cnt++;
-                                if(cnt>1)
-                                    break;
-                            }
-                        }
-                        if(cnt==1){
-                            vector<string> v=s;
-                            v.push_back(ss);
-                            q.push(v);
-                        }
+                    
+                    int cnt=0;
+                    
+                    for(int i=0;i<ss.size();i++) {
+                        if(ss[i]!=s.back()[i])
+                            cnt++;
+                        if(cnt>1)
+                            break;
+                    }
+                            
+                    if(cnt==1){
+                        vector<string> v=s;
+                        v.push_back(ss);
+                        q.push(v);
                     }
                 }
             }
