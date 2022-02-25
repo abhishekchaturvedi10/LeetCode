@@ -17,12 +17,7 @@ public:
         
         if((xy&1)^(yx&1))
            return -1;
-        
-        res+=xy/2+yx/2;
-        
-        if(xy&1)
-            res+=2;
-        
-        return res;
+       
+        return xy/2+yx/2+(xy&1)*2;
     }
 };
