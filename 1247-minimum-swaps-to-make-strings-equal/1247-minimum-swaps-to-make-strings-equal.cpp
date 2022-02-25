@@ -15,7 +15,7 @@ public:
                 yx++;
         }
         
-        if((xy&1&&!(yx&1))||(yx&1&&!(xy&1)))
+        if((xy&1)^(yx&1))
            return -1;
         
         res+=xy/2+yx/2;
