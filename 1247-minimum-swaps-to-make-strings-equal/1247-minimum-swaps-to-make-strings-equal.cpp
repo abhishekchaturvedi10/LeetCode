@@ -15,9 +15,9 @@ public:
                 yx++;
         }
         
-        if((xy&1)^(yx&1))
+        if((xy%2)^(yx%2))
            return -1;
        
-        return xy/2+yx/2+(xy&1)*2;
+        return xy/2+yx/2+(xy%2)*2;
     }
 };
