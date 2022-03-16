@@ -9,15 +9,11 @@ public:
         h.push({nums[0],0});
         
         for(int i=1;i<nums.size();i++) {
-            if(i<k) {
-                h.push({nums[i],i});
-            }
-            else{
-                if(nums[i]>h.top()[0]) {
-                    h.pop();
-                    h.push({nums[i],i});
-                }
-            }
+            
+            h.push({nums[i],i});
+            
+            if(h.size()>k)
+                h.pop();
         }
         
         while(!h.empty()) {
