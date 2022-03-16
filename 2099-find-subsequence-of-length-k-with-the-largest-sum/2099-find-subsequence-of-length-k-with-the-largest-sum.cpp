@@ -5,10 +5,8 @@ public:
         priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>> h;
         
         vector<int> res(nums.size(),-1000000);
-        
-        h.push({nums[0],0});
-        
-        for(int i=1;i<nums.size();i++) {
+                
+        for(int i=0;i<nums.size();i++) {
             
             h.push({nums[i],i});
             
