@@ -23,7 +23,7 @@ public:
         
         vector<int> ans;
         
-        for(int i:res)
+        for(int &i:res)
             if(i!=-1000000)
                 ans.push_back(i);
         
