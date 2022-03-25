@@ -15,17 +15,17 @@ public:
         
         int total=0;
         
-        set<int> removed;
+        unordered_map<int,int> removed;
         
         for(int i=0;i<trips.size();i++) {
                         
             for(int j=0;j<i;j++) {
                 
-                if(trips[j][2]<=trips[i][1]&&!removed.count(j)) {
+                if(trips[j][2]<=trips[i][1]&&removed[j]==0) {
                     
                     total-=trips[j][0];
                     
-                    removed.insert(j);
+                    removed[j]=1;
                 }
             }
             
