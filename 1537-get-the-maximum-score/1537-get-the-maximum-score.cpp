@@ -3,7 +3,7 @@ public:
     
     long long dp[100005][2];
     
-    map<int,int> a,b;
+    unordered_map<int,int> a,b;
     
     long long rec(int i, int turn, vector<int>& A, vector<int>& B) {
         
