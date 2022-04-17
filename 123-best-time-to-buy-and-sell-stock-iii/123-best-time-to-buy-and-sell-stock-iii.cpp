@@ -1,31 +1,31 @@
 class Solution {
 public:
     
-    int dp[100005][5];
+    int dp[100005][2][3];
     
-    int rec(vector<int>& prices, int i, int cur, int have){
+    int rec(int cur, int k, vector<int>& prices, int i, int isBought){
         
-        if(cur>=4||i==prices.size())
+        if(i>=prices.size())
             return 0;
         
-        if(dp[i][cur]!=-1)
-            return dp[i][cur];
+        if(dp[i][isBought][cur]!=-1)
+            return dp[i][isBought][cur];
         
-        dp[i][cur]=rec(prices,i+1,cur,have);
+        dp[i][isBought][cur]=rec(cur,k,prices,i+1,isBought);
         
-        if(have==1)
-            dp[i][cur]=max(dp[i][cur], prices[i]+rec(prices,i+1,cur+1,0));
-        else 
-            if(cur==0||cur==2)
-                dp[i][cur]=max(dp[i][cur], -prices[i]+rec(prices,i+1,cur+1,1));
-                    
-        return dp[i][cur];
+        if(isBought)
+            dp[i][isBought][cur]=max(dp[i][isBought][cur], prices[i]+rec(cur,k,prices,i+1,0));
+        
+        else if(!isBought&&cur<k)
+           dp[i][isBought][cur]=max(dp[i][isBought][cur], -prices[i]+rec(cur+1,k,prices,i+1,1)); 
+        
+        return dp[i][isBought][cur];
     }
     
     int maxProfit(vector<int>& prices) {
         
         memset(dp,-1,sizeof(dp));
         
-        return rec(prices,0,0,0);
+        return rec(0,2,prices,0,0);
     }
 };
