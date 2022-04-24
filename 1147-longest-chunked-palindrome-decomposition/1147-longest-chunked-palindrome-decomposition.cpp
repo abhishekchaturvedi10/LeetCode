@@ -4,9 +4,7 @@ public:
     int dp[1005][1005];
     
     int rec(string& text, int i, int j) {
-        
-        // cout<<i<<" "<<j<<endl;
-        
+                
         if(i>j)
             return 0;
         
@@ -18,13 +16,11 @@ public:
                       return dp[i][j]=1;
               }  
               else if(i>(text.size()-1)/2)
-                  return 1;
-                  
+                  return 1;   
         } 
-        else {
+        else 
             if(i>=(text.size()-1)/2)
                 return 1;
-        }
         
         
         if(dp[i][j]!=-1)
