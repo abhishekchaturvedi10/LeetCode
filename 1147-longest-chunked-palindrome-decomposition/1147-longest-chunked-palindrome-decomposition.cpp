@@ -50,10 +50,20 @@ public:
         }
     }
     
-    int longestDecomposition(string& text) {
+    int longestDecomposition(string& S) {
         
-        memset(dp,-1,sizeof(dp));
+        int res = 0, n = S.length();
         
-        return rec(text,0,text.size()-1);
+        string l = "", r = "";
+        
+        for (int i = 0; i < n; ++i) {
+            
+            l = l + S[i], r = S[n - i - 1] + r;
+            
+            if (l == r)
+                ++res, l = "", r = "";
+        }
+        
+        return res;
     }
 };
