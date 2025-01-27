@@ -1,25 +1,40 @@
 class Solution {
 public:
-    int findMaximizedCapital(int k, int w, vector<int>& profits, vector<int>& capital) {
-        int n=profits.size();
-        vector<vector<int>> projects;
-        for(int i=0;i<n;i++) {
-            projects.push_back({capital[i],profits[i]});
+    int findMaximizedCapital(int k, int w, vector<int>& profits,
+                             vector<int>& capital) {
+        int n = profits.size();
+        std::vector<std::pair<int, int>> projects;
+
+        // Creating vector of pairs (capital, profits)
+        for (int i = 0; i < n; ++i) {
+            projects.emplace_back(capital[i], profits[i]);
         }
-        sort(projects.begin(),projects.end());
-        priority_queue<int> pq;
-        int j=0;
-        for(int i=0;i<k;i++) {
-            while(j<n&&projects[j][0]<=w) {
-                pq.push(projects[j][1]);
-                j++;
+
+        // Sorting projects by capital required
+        std::sort(projects.begin(), projects.end());
+
+        // Max-heap to store profits, using greater to create a max-heap
+        std::priority_queue<int> maxHeap;
+        int i = 0;
+
+        // Main loop to select up to k projects
+        for (int j = 0; j < k; ++j) {
+            // Add all profitable projects that we can afford
+            while (i < n && projects[i].first <= w) {
+                maxHeap.push(projects[i].second);
+                i++;
             }
-            if(pq.empty()) {
+
+            // If no projects can be funded, break out of the loop
+            if (maxHeap.empty()) {
                 break;
             }
-            w+=pq.top();
-            pq.pop();
+
+            // Otherwise, take the project with the maximum profit
+            w += maxHeap.top();
+            maxHeap.pop();
         }
+
         return w;
     }
 };
