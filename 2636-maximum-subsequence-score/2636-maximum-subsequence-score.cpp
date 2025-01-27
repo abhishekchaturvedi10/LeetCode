@@ -9,15 +9,15 @@ public:
         sort(v.begin(),v.end(),greater<>());
         priority_queue<int,vector<int>,greater<int>> pq;
         long long int curSum=0, res=0;
-        for(int i=0;i<n;i++) {
-            pq.push(v[i].second);
-            curSum+=v[i].second;
+        for(auto& x:v) {
+            pq.push(x.second);
+            curSum+=x.second;
             if(pq.size()>k) {
                 curSum-=pq.top();
                 pq.pop();
             }
             if(pq.size()==k) {
-                res=max(res,curSum*v[i].first);
+                res=max(res,curSum*x.first);
             }
         }
         return res;
