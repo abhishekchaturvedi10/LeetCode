@@ -15,10 +15,9 @@ public:
                 curSum-=pq.top();
                 pq.pop();
             }
-            if(pq.size()==k) {
-                res=max(res,curSum*x.first);
-            }
+            res=max(res,curSum*x.first);
         }
-        return res;
+        int mod = 1e9+7;
+        return res%mod;
     }
 };
