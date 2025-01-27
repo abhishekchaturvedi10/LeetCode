@@ -24,6 +24,7 @@ public:
                 totalCost = min(totalCost,currTotalQuality*rate[i].first);
             }
         }
+        
         return totalCost;
     }
 };
