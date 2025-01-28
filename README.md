@@ -9,6 +9,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
+| [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
@@ -27,6 +28,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
@@ -35,6 +37,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -42,6 +45,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -49,6 +53,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -77,4 +82,8 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
