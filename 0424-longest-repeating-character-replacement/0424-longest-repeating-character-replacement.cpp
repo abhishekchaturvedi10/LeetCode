@@ -8,11 +8,9 @@ public:
             mf=max(mf,m[s[r]]);
             if((r-l+1)-mf<=k) {
                 res=max(res,r-l+1);
-                r++;
-                m[s[r]]++;
+                m[s[++r]]++;
             } else {
-                m[s[l]]--;
-                l++;
+                m[s[l++]]--;
             }
         }
         return res;
