@@ -33,6 +33,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Greedy
@@ -98,10 +99,12 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
 | ------- |
