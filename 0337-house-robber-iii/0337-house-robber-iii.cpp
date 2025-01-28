@@ -26,6 +26,6 @@ public:
         }
     }
     int rob(TreeNode* root) {
-        return max(dfs(root->left,false)+dfs(root->right,false),root->val+dfs(root->left,true)+dfs(root->right,true));
+        return max(dfs(root,false),dfs(root,true));
     }
 };
