@@ -2,26 +2,24 @@ class Solution {
 public:
     string minWindow(string s, string t) {
         
-        unordered_map<char,int> freqT;
+        unordered_map<char,int> freq;
         
         for(int i=0;i<t.size();i++)
-            freqT[t[i]]++;
-        
-        unordered_map<char,int> freqS;
-        
+            freq[t[i]]++;
+                
         int l=0,r=0,res=1e7,si=-1;
             
         while(r<s.size()) {
             
-            freqS[s[r]]++;
+            freq[s[r]]--;
             
-            while(l<=r&&freqS[s[l]]>freqT[s[l]])
-                freqS[s[l++]]--;
+            while(l<=r&&freq[s[l]]<0)
+                freq[s[l++]]++;
             
             int f=0;
                         
             for(char i=0;i<=26;i++) {
-                if((freqT[i+'a']>freqS[i+'a']) || (freqT[i+'A']>freqS[i+'A'])) {
+                if(freq[i+'a']>0 || freq[i+'A']>0) {
                     f=1;
                     break;
                 }
