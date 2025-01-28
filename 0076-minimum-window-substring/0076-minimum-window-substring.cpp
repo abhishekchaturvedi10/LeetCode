@@ -9,10 +9,8 @@ public:
         
         unordered_map<char,int> freqS;
         
-        int l=0,r=0,res=INT_MAX;
-        
-        string ans="";
-        
+        int l=0,r=0,res=1e7,si=-1;
+            
         while(r<s.size()) {
             
             freqS[s[r]]++;
@@ -31,12 +29,11 @@ public:
         
             if(f==0&&(r-l+1)<res) {
                 res=r-l+1;
-                ans=s.substr(l,res);
+                si=l;
             }
             
             r++;
         }
-        
-        return ans;
+        return si==-1?"":s.substr(si,res);
     }
 };
