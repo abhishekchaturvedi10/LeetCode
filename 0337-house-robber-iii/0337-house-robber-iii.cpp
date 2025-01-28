@@ -11,8 +11,7 @@
  */
 class Solution {
 public:
-    map<pair<TreeNode*,bool>,int> dp;
-    int dfs(TreeNode* root, bool isParentBroken) {
+    int dfs(TreeNode* root, bool isParentBroken, map<pair<TreeNode*,bool>,int>& dp) {
         if(!root) {
             return 0;
         } 
@@ -20,12 +19,13 @@ public:
             return dp[{root,isParentBroken}];
         }
         if(isParentBroken) {
-            return dp[{root,isParentBroken}]=dfs(root->left,false)+dfs(root->right,false);
+            return dp[{root,isParentBroken}]=dfs(root->left,false,dp)+dfs(root->right,false,dp);
         } else {
-            return dp[{root,isParentBroken}]=max(dfs(root->left,false)+dfs(root->right,false),root->val+dfs(root->left,true)+dfs(root->right,true));
+            return dp[{root,isParentBroken}]=max(dfs(root->left,false,dp)+dfs(root->right,false,dp),root->val+dfs(root->left,true,dp)+dfs(root->right,true,dp));
         }
     }
     int rob(TreeNode* root) {
-        return max(dfs(root,false),dfs(root,true));
+        map<pair<TreeNode*,bool>,int> dp;
+        return max(dfs(root,false,dp),dfs(root,true,dp));
     }
 };
