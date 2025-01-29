@@ -4,19 +4,10 @@ public:
         int n=nums.size();
         stack<int> s;
         vector<int> nse(n,n);
-        for(int i=0;i<n;i++) {
-            while(!s.empty()&&nums[s.top()]>nums[i]) {
-                nse[s.top()]=i;
-                s.pop();
-            }
-            s.push(i);
-        }
-        while(!s.empty()) {
-            s.pop();
-        }
         vector<int> pse(n,-1);
         for(int i=0;i<n;i++) {
             while(!s.empty()&&nums[s.top()]>nums[i]) {
+                nse[s.top()]=i;
                 s.pop();
             }
             if(!s.empty()) {
