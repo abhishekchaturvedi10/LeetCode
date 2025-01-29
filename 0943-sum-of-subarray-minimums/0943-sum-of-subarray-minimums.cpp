@@ -17,10 +17,9 @@ public:
         }
         int res=0, mod=1e9+7;
         for(int i=0;i<n;i++) {
-            long long int x = (i-pse[i])*(nse[i]-i);
-            x=(x%mod)*nums[i];
-            res=((res%mod)+(x%mod))%mod;
+            res += (long) (i-pse[i])*(nse[i]-i)%mod * nums[i]%mod;
+            res%=mod;
         }
-        return res%mod;
+        return res;
     }
 };
