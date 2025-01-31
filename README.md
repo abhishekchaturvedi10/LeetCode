@@ -47,6 +47,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
@@ -58,6 +59,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
@@ -153,6 +156,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
