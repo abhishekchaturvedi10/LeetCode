@@ -1,7 +1,7 @@
 struct sorter{
     bool operator()(pair<int,int> const& p1, pair<int,int> const& p2){
         if(p1.first==p2.first)
-            return p2.second>p1.second;
+            return p2.second<p1.second;
         return p1.first<p2.first;
     }
 };
@@ -9,7 +9,7 @@ class Solution {
 public:
     int maxProfitAssignment(vector<int>& difficulty, vector<int>& profit, vector<int>& worker) {
         int n=difficulty.size(), m=worker.size();
-        priority_queue<pair<int,int>,vector<pair<int,int>>,sorter> pq;
+        priority_queue<pair<int,int>> pq;
         for(int i=0;i<n;i++) {
             pq.push({profit[i],difficulty[i]});
         }
