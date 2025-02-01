@@ -35,6 +35,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
@@ -162,4 +163,12 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
