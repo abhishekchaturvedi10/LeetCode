@@ -12,6 +12,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1364-tuple-with-same-product](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -48,6 +49,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1364-tuple-with-same-product](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -125,6 +127,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
+| [1364-tuple-with-same-product](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Matrix
 |  |
