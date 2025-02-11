@@ -2,10 +2,11 @@ class Solution {
 public:
     string removeOccurrences(string s, string part) {
         string st="";
+        int l=part.size();
         for(char& c:s) {
             st.push_back(c);
-            if(st.size()>=part.size()&&part==st.substr(st.size()-part.size())) {
-                st = st.substr(0,st.size()-part.size());
+            if(st.size()>=l&&part==st.substr(st.size()-l)) {
+                st.erase(st.size() - l, l);
             }
         }
         return st;
