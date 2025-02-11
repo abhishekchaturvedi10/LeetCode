@@ -2,7 +2,7 @@ class Solution {
 public:
     string removeOccurrences(string s, string part) {
         string st="";
-        for(char c:s) {
+        for(char& c:s) {
             st.push_back(c);
             if(st.size()<part.size()) {
                 continue;
