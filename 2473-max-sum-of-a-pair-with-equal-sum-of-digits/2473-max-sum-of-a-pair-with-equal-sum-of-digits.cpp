@@ -10,19 +10,18 @@ public:
                 x/=10;
             }
             if(mpp.find(sum)==mpp.end()) {
-                mpp[sum]={i};
+                mpp[sum]={nums[i]};
             } else {
-                mpp[sum].push_back(i);
+                mpp[sum].push_back(nums[i]);
             }
         }
         int res=-1;
         for(auto p:mpp) {
-            vector<int> indices = p.second;
-            int sz=indices.size();
-            for(int i=0;i<sz;i++) {
-                for(int j=i+1;j<sz;j++) {
-                    res=max(res,nums[indices[i]]+nums[indices[j]]);
-                }
+            vector<int> ints = p.second;
+            int sz=ints.size();
+            if(sz>1) {
+                sort(ints.begin(),ints.end());
+                res=max(res,ints[sz-1]+ints[sz-2]);
             }
         }
         return res;
