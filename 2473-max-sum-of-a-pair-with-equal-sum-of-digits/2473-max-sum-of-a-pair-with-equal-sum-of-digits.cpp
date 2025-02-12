@@ -16,7 +16,7 @@ public:
             }
         }
         int res=-1;
-        for(auto p:mpp) {
+        for(auto& p:mpp) {
             vector<int> ints = p.second;
             int sz=ints.size();
             if(sz>1) {
