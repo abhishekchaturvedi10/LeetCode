@@ -15,6 +15,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1364-tuple-with-same-product](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -58,6 +59,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -83,6 +85,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
@@ -95,6 +98,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
