@@ -6,6 +6,7 @@ public:
             string left = s.substr(0, i + 1);
             string right = s.substr(i + 1);
             int leftNum = stoi(left);
+            if (right == "" && target==leftNum) return true;
             if(leftNum>target) {
                 return false;;
             }
