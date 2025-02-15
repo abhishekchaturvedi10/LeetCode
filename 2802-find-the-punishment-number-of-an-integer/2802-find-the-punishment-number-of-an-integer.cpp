@@ -7,7 +7,7 @@ public:
             string right = s.substr(i + 1);
             int leftNum = stoi(left);
             if(leftNum>target) {
-                break;
+                return false;;
             }
             bool isPossible = canPartition(right, target - leftNum);
             if (isPossible) {
