@@ -2,7 +2,6 @@ class Solution {
 public:
     bool canPartition(string s, int target) {
         if (s == "" && target == 0) return true;
-        bool ans = false;
         for (int i = 0; i < s.size(); i++) {
             string left = s.substr(0, i + 1);
             string right = s.substr(i + 1);
@@ -12,13 +11,12 @@ public:
             }
             bool isPossible = canPartition(right, target - leftNum);
             if (isPossible) {
-                ans = true;
-                break;
+                return true;
             }
         }
-        return ans;
+        return false;
     }
-    
+
     int punishmentNumber(int n) {
         int sum = 0;
         for (int num = 1; num <= n; num++) {
