@@ -57,6 +57,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -189,6 +190,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0090-subsets-ii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
