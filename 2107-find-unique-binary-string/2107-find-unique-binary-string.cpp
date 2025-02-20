@@ -27,7 +27,7 @@ public:
     }
     string findDifferentBinaryString(vector<string>& nums) {
         int n=nums.size();
-        for(string s:nums) {
+        for(string& s:nums) {
             seen1[s]=1;
         }
         string cur="";
