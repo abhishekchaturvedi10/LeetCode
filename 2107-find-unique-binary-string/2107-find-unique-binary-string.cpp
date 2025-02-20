@@ -2,8 +2,7 @@ class Solution {
 public:
     map<pair<string,int>,string> seen;
     unordered_map<string,int> seen1;
-    string res;
-    string rec(int i, int n, string cur) {
+    string rec(int i, int n, string& cur) {
         if(i>n) {
             return "";
         }
@@ -17,11 +16,13 @@ public:
         if(seen.find({cur,i})!=seen.end()) {
             return seen[{cur,i}];
         }
-        string x = rec(i+1,n,cur+"0");
+        string cur1=cur+"0";
+        string x = rec(i+1,n,cur1);
         if(x!="") {
             return seen[{cur,i}]=x;
         }
-        string y = rec(i+1,n,cur+"1");
+        cur1=cur+"1";
+        string y = rec(i+1,n,cur1);
         return seen[{cur,i}]=y;
     }
     string findDifferentBinaryString(vector<string>& nums) {
@@ -29,7 +30,7 @@ public:
         for(string s:nums) {
             seen1[s]=1;
         }
-        res="";
-        return rec(0, nums.size(), "");
+        string cur="";
+        return rec(0, nums.size(), cur);
     }
 };
