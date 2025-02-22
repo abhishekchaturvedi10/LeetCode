@@ -27,6 +27,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -130,17 +131,20 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Counting
 |  |
