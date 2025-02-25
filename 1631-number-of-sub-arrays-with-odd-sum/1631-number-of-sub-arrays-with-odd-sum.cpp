@@ -6,9 +6,8 @@ public:
         for(int i:arr) {
             s+=i;
             if(s&1) {
-                res=((res%mod + even%mod))%mod;
+                res=((res%mod + even%mod) + 1)%mod;
                 odd++;
-                res++;
             } else {
                 res=((res%mod + odd%mod))%mod;
                 even++;
