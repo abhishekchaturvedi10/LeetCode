@@ -65,6 +65,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -121,6 +122,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Trie
 |  |
 | ------- |
