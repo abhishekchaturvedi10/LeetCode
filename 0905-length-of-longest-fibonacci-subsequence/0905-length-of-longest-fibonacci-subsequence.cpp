@@ -21,7 +21,6 @@ public:
                 }
             }
         }
-
         return maxi > 2 ? maxi : 0;
     }
 };
