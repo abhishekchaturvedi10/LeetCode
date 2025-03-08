@@ -33,6 +33,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -42,6 +43,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
