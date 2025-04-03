@@ -13,9 +13,7 @@ private:
             result.push_back(tempList);
             return;
         }
-        
         backtrack(result, tempList, nums, index + 1);
-        
         tempList.push_back(nums[index]);
         backtrack(result, tempList, nums, index + 1);
         tempList.pop_back();
