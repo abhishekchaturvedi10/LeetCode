@@ -26,6 +26,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -121,6 +122,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -217,6 +219,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2107-find-unique-binary-string) |
