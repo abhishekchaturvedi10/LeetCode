@@ -11,30 +11,29 @@
  */
 class Solution {
 public:
-    TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
+    TreeNode* constructFromPrePost(vector<int>& pre, vector<int>& post) {
         
-        stack<TreeNode*> nodes;
-        TreeNode* root = new TreeNode(preorder[0]);
-        nodes.push(root);
-
-        int preIndex=1,postIndex=0;
-
-        while(!nodes.empty()) {
-            TreeNode* cur=nodes.top();
-            if(cur->val==postorder[postIndex]) {
-                nodes.pop();
-                postIndex++;
-            } else {
-                TreeNode* newNode = new TreeNode(preorder[preIndex++]);
-                if(!cur->left) {
-                    cur->left=newNode;
-                } else {
-                    cur->right=newNode;
-                }
-                nodes.push(newNode);
-            }
+        if(!pre.size())
+            return NULL;
+        
+        if(pre.size()==1){
+            TreeNode *root=new TreeNode(pre[0]);
+            return root;
         }
-
+        
+        int ind;
+        
+        for(int i=0;i<post.size();i++)
+            if(post[i]==pre[1])
+                ind=i;
+        
+        TreeNode *root=new TreeNode(post[post.size()-1]);
+        
+        vector<int> v1(post.begin(),post.begin()+ind+1), v2(pre.begin()+1,pre.begin()+ind+2), v3(post.begin()+ind+1,post.begin()+post.size()-1), v4(pre.begin()+ind+2,pre.end());
+        
+        root->left=constructFromPrePost(v2, v1);
+        root->right=constructFromPrePost(v4, v3);
+                              
         return root;
     }
 };
