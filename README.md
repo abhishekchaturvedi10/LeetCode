@@ -85,6 +85,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
