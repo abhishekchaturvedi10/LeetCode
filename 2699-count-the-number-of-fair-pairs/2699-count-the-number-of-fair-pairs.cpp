@@ -6,7 +6,7 @@ public:
         for(int i=0;i<nums.size()-1;i++) {
             int low = upper_bound(nums.begin()+i+1, nums.end(), lower-nums[i]-1)-nums.begin();
             int up = lower_bound(nums.begin()+i+1, nums.end(), upper-nums[i]+1)-nums.begin();
-            res+=(up-low);
+            res+=up-low;
         }
         return res;
     }
