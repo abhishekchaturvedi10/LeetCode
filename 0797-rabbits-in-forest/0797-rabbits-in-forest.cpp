@@ -8,10 +8,8 @@ public:
         int res=0;
         for(auto p:mp) {
             int x=p.first+1;
-            int y=p.second/x;
-            int z=p.second%x;
-            res+=x*y;
-            if(z!=0) {
+            res+=x*(p.second/x);
+            if(p.second%x!=0) {
                 res+=x;
             }
         }
