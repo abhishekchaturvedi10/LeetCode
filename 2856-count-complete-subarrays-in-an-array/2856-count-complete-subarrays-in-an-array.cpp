@@ -2,7 +2,7 @@ class Solution {
 public:
     int countCompleteSubarrays(vector<int>& nums) {
         unordered_map<int,int> mp;
-        for(int& i:nums) {
+        for(int i:nums) {
             mp[i]++;
         }
         int cnt=mp.size(), l=0, r=0, res=0;;
