@@ -5,7 +5,7 @@ public:
         unordered_map<int, long long> mpp;
         mpp[0] = 1;
 
-        for (int i : nums) {
+        for (int& i : nums) {
             if (i % modulo == k) {
                 x++;
             }
