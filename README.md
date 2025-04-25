@@ -27,6 +27,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -97,6 +98,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Greedy
@@ -293,6 +295,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Topological Sort
 |  |
 | ------- |
