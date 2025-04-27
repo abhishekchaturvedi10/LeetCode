@@ -103,6 +103,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Greedy
 |  |
 | ------- |
