@@ -53,6 +53,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -94,6 +95,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -306,4 +308,12 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
