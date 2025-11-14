@@ -20,7 +20,6 @@ public:
         auto r = dfs(root->right);
         if(root->val == ((root->val+l.second+r.second)/(1+l.first+r.first))) {
             res++;
-            cout<<root->val<<endl;
         }
         return {1+l.first+r.first,l.second+r.second+root->val};
     }
