@@ -24,8 +24,8 @@ public:
                     dist[adjNode]=weight+distt;
                     ways[adjNode]=ways[node]%mod;
                     pq.push({dist[adjNode],adjNode});
-                } else if(dist[x[0]]==x[1]+distt) {
-                    ways[x[0]]=(ways[x[0]]+ways[node])%mod;
+                } else if(dist[adjNode]==weight+distt) {
+                    ways[adjNode]=(ways[adjNode]+ways[node])%mod;
                 }
             }
         }
