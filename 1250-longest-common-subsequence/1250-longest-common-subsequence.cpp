@@ -1,10 +1,7 @@
 class Solution {
 public:
     int rec(string& s1, int i1, string& s2, int i2, vector<vector<int>>& dp) {
-        if(i1==s1.size()) {
-            return 0;
-        }
-        if(i2==s2.size()) {
+        if(i1==s1.size() || i2==s2.size()) {
             return 0;
         }
         if(dp[i1][i2]!=-1) {
