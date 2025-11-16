@@ -156,6 +156,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
@@ -181,6 +182,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -191,6 +193,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -203,6 +206,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
