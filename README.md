@@ -55,6 +55,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -78,6 +79,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
@@ -285,6 +287,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
@@ -330,6 +333,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
