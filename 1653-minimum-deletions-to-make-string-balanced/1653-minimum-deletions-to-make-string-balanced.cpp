@@ -4,7 +4,7 @@ public:
         int res=0, aCnt=0, bCnt=0;
         for(char& c:s) {
             if(c=='a') {
-                if(bCnt) {
+                if(bCnt>0) {
                     res++;
                     bCnt--;
                 }
