@@ -311,6 +311,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -365,5 +366,10 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
