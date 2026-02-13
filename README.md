@@ -40,6 +40,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -198,6 +199,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -210,6 +212,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -224,6 +227,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -302,6 +306,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2107-find-unique-binary-string) |
