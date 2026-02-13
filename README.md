@@ -34,6 +34,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -159,6 +160,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -296,6 +298,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
