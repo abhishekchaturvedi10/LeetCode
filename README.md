@@ -112,6 +112,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -169,6 +170,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
@@ -308,6 +310,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -350,6 +353,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3447-clear-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3447-clear-digits) |
 ## Design
 |  |
