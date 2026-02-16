@@ -24,10 +24,7 @@ public:
             vector<int> t = pq.top();
             res+=t[0];
             pq.pop();
-            if(j==i) {
-                pq.push({costs[i],i});
-                i++;
-            } else if (j>i) {
+            if (j>=i) {
                 if(t[1]<=i) {
                     pq.push({costs[i],i});
                     i++;
