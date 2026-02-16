@@ -5,7 +5,7 @@ class Solution {
             return s.length();
         }
 
-        // if (ispal(s)) return s.length();
+        if (ispal(s)) return s.length();
         
         int n = s.length();
         int ans = 2;
