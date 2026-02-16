@@ -18,9 +18,7 @@ public:
             j--;
         }
 
-        int candidatesChosen = 0;
-
-        while(candidatesChosen<k && pq.size()) {
+        while(k--) {
             vector<int> t = pq.top();
             res+=t[0];
             pq.pop();
@@ -33,7 +31,6 @@ public:
                     j--;
                 }
             }
-            candidatesChosen++;
         }
 
         return res;
