@@ -8,7 +8,7 @@ class Solution {
         if (ispal(s)) return s.length();
         
         int n = s.length();
-        int ans = 1;
+        int ans = 2;
         int[][] dp = new int[n][n];
         
         for (int i = 0; i < n; i++) {
@@ -21,9 +21,6 @@ class Solution {
             } else {
                 dp[i][i + 1] = 1;
             }
-            if (dp[i][i + 1] >= 1) {
-                ans = Math.max(ans, 2);
-            }
         }
         
         for (int len = 3; len <= n; len++) {
@@ -34,7 +31,6 @@ class Solution {
                 } else {
                     dp[i][j] = Math.max(dp[i + 1][j], dp[i][j - 1]);
                 }
-                
                 if (dp[i][j] >= len - 1) {
                     ans = Math.max(ans, len);
                 }
