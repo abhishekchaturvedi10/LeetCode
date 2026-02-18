@@ -172,6 +172,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -235,6 +236,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
+| [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -278,6 +280,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -290,6 +293,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
@@ -428,4 +432,8 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0146-lru-cache) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
