@@ -29,7 +29,7 @@ public:
         vis.resize(n);
         inStack.resize(n);
 
-        for(vector<int> prerequisite: prerequisites) {
+        for(vector<int>& prerequisite: prerequisites) {
             graph[prerequisite[0]].push_back(prerequisite[1]);
         }
 
