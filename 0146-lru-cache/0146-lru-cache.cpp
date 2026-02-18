@@ -5,7 +5,10 @@ public:
         int key, val;
         Node* prev;
         Node* next;
-        Node(int key, int val) : key(key), val(val), prev(nullptr), next(nullptr) {}
+        Node(int key, int val) {
+            this->key = key;
+            this->val = val;
+        }
     };
 
     Node* head = new Node(-1, -1);
