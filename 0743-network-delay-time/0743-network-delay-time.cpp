@@ -19,6 +19,9 @@ public:
             vector<int> topElement = pq.top();
             pq.pop();
             int u = topElement[1], dist = topElement[0];
+            if(dist>distance[u]) {
+                continue;
+            }
             auto neighbors = graph[u];
             for(auto& neighbor: neighbors) {
                 int v = neighbor[0], weight = neighbor[1];
