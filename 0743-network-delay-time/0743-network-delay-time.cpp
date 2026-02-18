@@ -22,8 +22,8 @@ public:
             if(dist>distance[u]) {
                 continue;
             }
-            auto neighbors = graph[u];
-            for(auto& neighbor: neighbors) {
+            vector<vector<int>> neighbors = graph[u];
+            for(vector<int>& neighbor: neighbors) {
                 int v = neighbor[0], weight = neighbor[1];
                 int curDist = dist + weight;
                 if(distance[v] > curDist) {
