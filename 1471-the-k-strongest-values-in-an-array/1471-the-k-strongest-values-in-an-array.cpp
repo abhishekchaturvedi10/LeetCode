@@ -8,7 +8,7 @@ public:
 
         priority_queue<vector<int>> maxHeap;
 
-        for(int i:arr) {
+        for(int& i:arr) {
             maxHeap.push({abs(i-m),i});
         }
 
