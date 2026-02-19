@@ -74,6 +74,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -150,6 +151,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -326,6 +328,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
