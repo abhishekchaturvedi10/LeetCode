@@ -2,54 +2,36 @@ class Solution {
 public:
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         
-        queue<vector<int>> q;
-        vector<vector<int>> vis(mat.size(),vector<int>(mat[0].size()));
+        int startCol = 0, endCol = mat[0].size()-1;
 
-        q.push({0,0});
+        while(endCol>=startCol) {
 
-        while(!q.empty()) {
+            int maxRow = 0, midCol = startCol + (endCol-startCol)/2;
 
-            int x = q.front()[0], y = q.front()[1];
-            q.pop();
-
-            if(vis[x][y]) {
-                continue;
-            }
-
-            vis[x][y] = 1;
-
-            bool isPeak = true;
-
-            if(x>0 && mat[x-1][y] > mat[x][y]) {
-                isPeak = false;
-                if(!vis[x-1][y]) {
-                    q.push({x-1,y});
+            for(int r=0;r<mat.size();r++) {
+                if(mat[r][midCol] >= mat[maxRow][midCol]) {
+                    maxRow = r;
                 }
             }
 
-            if(y>0 && mat[x][y-1] > mat[x][y]) {
-                isPeak = false;
-                if(!vis[x][y-1]) {
-                    q.push({x,y-1});
-                }
+            bool moveLeft = false, moveRight = false;
+
+            if(midCol>0 && mat[maxRow][midCol-1]>mat[maxRow][midCol]) {
+                moveLeft = true;
             }
 
-            if(x<mat.size()-1 && mat[x+1][y] > mat[x][y]) {
-                isPeak = false;
-                if(!vis[x+1][y]) {
-                    q.push({x+1,y});
-                }
+            if(midCol<mat[0].size()-1 && mat[maxRow][midCol+1]>mat[maxRow][midCol]) {
+                moveRight = true;
             }
 
-            if(y<mat[0].size()-1 && mat[x][y+1] > mat[x][y]) {
-                isPeak = false;
-                if(!vis[x][y+1]) {
-                    q.push({x,y+1});
-                }
+            if(!moveLeft && !moveRight) {
+                return {maxRow, midCol};
             }
 
-            if(isPeak) {
-                return {x,y};
+            if(moveLeft) {
+                endCol = midCol-1;
+            } else {
+                startCol = midCol+1;
             }
         }
 
