@@ -3,7 +3,6 @@ public:
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         
         queue<vector<int>> q;
-        vector<int> res = {-1,-1};
         vector<vector<int>> vis(mat.size(),vector<int>(mat[0].size()));
 
         q.push({0,0});
@@ -50,10 +49,10 @@ public:
             }
 
             if(isPeak) {
-                res = {x,y};
+                return {x,y};
             }
         }
 
-        return res;
+        return {-1,-1};
     }
 };
