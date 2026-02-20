@@ -260,6 +260,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
+| [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -310,6 +311,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0210-course-schedule-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -485,6 +487,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 ## Ordered Set
 |  |
@@ -494,4 +497,8 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
