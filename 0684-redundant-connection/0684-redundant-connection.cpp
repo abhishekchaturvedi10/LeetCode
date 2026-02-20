@@ -3,7 +3,7 @@ public:
     int find(int parent[], int i){
         if(parent[i]==-1)
             return i;
-        return parent[i]=find(parent,parent[i]);
+        return find(parent,parent[i]);
     }
     void Union(int parent[], int x, int y){
         parent[x]=y;
