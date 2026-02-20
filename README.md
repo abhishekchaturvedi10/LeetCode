@@ -61,6 +61,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -88,6 +89,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0174-dungeon-game) |
+| [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -180,6 +182,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -440,11 +443,13 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Binary Search Tree
