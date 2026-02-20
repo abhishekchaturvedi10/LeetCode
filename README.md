@@ -247,6 +247,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -262,6 +263,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -278,6 +280,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Counting
 |  |
@@ -309,6 +312,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -380,6 +384,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0090-subsets-ii) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
