@@ -68,6 +68,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -121,6 +122,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -153,6 +155,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -176,6 +179,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1471-the-k-strongest-values-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -374,6 +378,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
@@ -435,6 +440,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Topological Sort
 |  |
