@@ -119,6 +119,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -401,6 +402,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
@@ -432,6 +434,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Topological Sort
 |  |
