@@ -61,6 +61,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -89,6 +90,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0174-dungeon-game) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -366,6 +368,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -425,6 +428,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
