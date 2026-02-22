@@ -487,10 +487,12 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0023-merge-k-sorted-lists](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Bucket Sort
 |  |
 | ------- |
