@@ -13,6 +13,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -368,6 +369,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -488,6 +490,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0206-reverse-linked-list) |
