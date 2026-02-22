@@ -21,7 +21,6 @@ public:
 
         int l=1, r=k;
         while(r<nums.size()) {
-            cout<<l<<" "<<r<<" "<<subarraySum<<" "<<cnt<<" ";
             subarraySum-=nums[l-1];
             subarraySum+=nums[r];
             freq[nums[l-1]]--;
