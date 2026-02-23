@@ -85,6 +85,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -370,6 +371,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0141-linked-list-cycle) |
