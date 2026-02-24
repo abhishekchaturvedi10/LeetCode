@@ -15,10 +15,11 @@ public:
         if(!root) {
             return true;
         }
-        if((long long)(root->val)<l || (long long)(root->val)>r) {
+        long long rootVal = (long long)(root->val);
+        if(rootVal<l || rootVal>r) {
             return false;
         }
-        return check(root->left,l,(long long)(root->val)-1) && check(root->right,(long long)(root->val)+1,r);
+        return check(root->left,l,rootVal-1) && check(root->right,rootVal+1,r);
     }
     bool isValidBST(TreeNode* root) {
         return check(root,LLONG_MIN,LLONG_MAX);
