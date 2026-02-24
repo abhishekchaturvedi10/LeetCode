@@ -156,6 +156,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3693-climbing-stairs-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
 | ------- |
