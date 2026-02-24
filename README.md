@@ -152,6 +152,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3169-count-days-without-meetings](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3169-count-days-without-meetings) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -198,6 +199,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3169-count-days-without-meetings](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3169-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
