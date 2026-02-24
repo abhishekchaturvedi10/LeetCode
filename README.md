@@ -266,6 +266,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -283,6 +284,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -302,6 +304,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -494,6 +497,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
