@@ -137,6 +137,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2107-find-unique-binary-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -440,6 +441,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3447-clear-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3447-clear-digits) |
 ## Design
@@ -487,6 +489,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2073-time-needed-to-buy-tickets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
