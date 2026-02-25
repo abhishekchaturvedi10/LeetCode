@@ -3,7 +3,7 @@ public:
 
     vector<vector<int>> res;
 
-    void helper(vector<int>& candidates, int i, int target, vector<int> curComb) {
+    void helper(vector<int>& candidates, int i, int target, vector<int>& curComb) {
         
         if(target<0) {
             return;
@@ -25,7 +25,6 @@ public:
         while(j<candidates.size() && candidates[i]==candidates[j]) {
             j++;
         }
-        
         helper(candidates,j,target,curComb);
         
         curComb.push_back(candidates[i]);
@@ -36,7 +35,8 @@ public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
 
         sort(candidates.begin(),candidates.end());
-        helper(candidates,0,target,{});
+        vector<int> curComb = {};
+        helper(candidates,0,target,curComb);
 
         return res;
     }
