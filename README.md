@@ -88,6 +88,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -415,6 +416,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
