@@ -42,6 +42,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -226,6 +227,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -381,6 +383,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
