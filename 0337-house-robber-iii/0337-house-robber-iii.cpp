@@ -1,31 +1,19 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    int dfs(TreeNode* root, bool isParentBroken, map<pair<TreeNode*,bool>,int>& dp) {
-        if(!root) {
-            return 0;
-        } 
-        if(dp.find({root,isParentBroken})!=dp.end()) {
-            return dp[{root,isParentBroken}];
-        }
-        if(isParentBroken) {
-            return dp[{root,isParentBroken}]=dfs(root->left,false,dp)+dfs(root->right,false,dp);
-        } else {
-            return dp[{root,isParentBroken}]=max(dfs(root->left,false,dp)+dfs(root->right,false,dp),root->val+dfs(root->left,true,dp)+dfs(root->right,true,dp));
-        }
+    pair<int, int> dfs(TreeNode* root) {
+        if (!root) return {0, 0};
+        
+        auto [left_rob, left_not_rob] = dfs(root->left);
+        auto [right_rob, right_not_rob] = dfs(root->right);
+        
+        int rob_current = root->val + left_not_rob + right_not_rob;
+        int not_rob_current = max(left_rob, left_not_rob) + max(right_rob, right_not_rob);
+        
+        return {rob_current, not_rob_current};
     }
+    
     int rob(TreeNode* root) {
-        map<pair<TreeNode*,bool>,int> dp;
-        return max(dfs(root,false,dp),dfs(root,true,dp));
+        auto [rob, not_rob] = dfs(root);
+        return max(rob, not_rob);
     }
 };
