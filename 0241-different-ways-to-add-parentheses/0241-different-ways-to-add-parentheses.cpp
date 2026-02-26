@@ -7,9 +7,7 @@ public:
         int n=expression.size();
 
         for(int i=0;i<n;i++) {
-
             char cur = expression[i];
-
             if(cur=='+' || cur=='-' || cur=='*') {
                 vector<int> res1 = diffWaysToCompute(expression.substr(0,i));
                 vector<int> res2 = diffWaysToCompute(expression.substr(i+1));
