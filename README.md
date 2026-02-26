@@ -48,6 +48,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -242,6 +243,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -266,6 +268,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -441,6 +444,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -532,6 +536,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bucket Sort
 |  |
 | ------- |
