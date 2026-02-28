@@ -127,6 +127,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
