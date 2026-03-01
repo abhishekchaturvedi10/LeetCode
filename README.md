@@ -119,6 +119,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0419-battleships-in-a-board](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -176,6 +177,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0134-gas-station](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0134-gas-station) |
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
