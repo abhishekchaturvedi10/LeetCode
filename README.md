@@ -294,6 +294,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -337,6 +338,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -464,6 +466,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
