@@ -142,6 +142,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -396,6 +397,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -407,6 +409,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -422,6 +425,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -437,6 +441,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
