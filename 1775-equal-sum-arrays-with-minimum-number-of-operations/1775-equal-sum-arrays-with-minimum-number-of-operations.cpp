@@ -10,26 +10,25 @@ public:
         }
         diff=abs(s1-s2);
         priority_queue<int> h1, h2;
-        if(s1>s2) {
-            for(int n2:nums2) {
-                if(n2<6) {
-                    h2.push(6-n2);
+        for(int& n1:nums1) {
+            if(s1<s2) {
+                if(n1<6) {
+                    h1.push(6-n1);
                 }
-            }
-            for(int n1:nums1) {
+            } else {
                 if(n1>1) {
                     h1.push(n1-1);
                 }
             }
-        } else {
-            for(int n2:nums2) {
+        }
+        for(int& n2:nums2) {
+            if(s1>s2) {
+                if(n2<6) {
+                    h2.push(6-n2);
+                }
+            } else {
                 if(n2>1) {
                     h2.push(n2-1);
-                }
-            }
-            for(int n1:nums1) {
-                if(n1<6) {
-                    h1.push(6-n1);
                 }
             }
         }
