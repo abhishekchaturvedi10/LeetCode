@@ -91,6 +91,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -179,6 +180,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0134-gas-station) |
 | [0502-ipo](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
@@ -425,6 +427,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0042-trapping-rain-water) |
