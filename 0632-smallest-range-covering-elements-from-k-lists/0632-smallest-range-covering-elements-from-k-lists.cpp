@@ -10,7 +10,7 @@ public:
             curMax = max(curMax, nums[i][0]);
         }
 
-        vector<int> smallRange = {0, numeric_limits<int>::max()};
+        vector<int> smallRange = {0, INT_MAX};
 
         while (!minHeap.empty()) {
 
