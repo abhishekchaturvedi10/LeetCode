@@ -16,6 +16,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0141-linked-list-cycle](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0146-lru-cache) |
+| [0264-ugly-number-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0621-task-scheduler) |
@@ -234,6 +235,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -268,6 +270,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0174-dungeon-game](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -488,6 +491,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
