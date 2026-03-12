@@ -39,6 +39,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -168,6 +169,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -226,6 +228,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -449,6 +452,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1471-the-k-strongest-values-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
