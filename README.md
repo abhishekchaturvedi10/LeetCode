@@ -40,6 +40,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -70,6 +71,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3447-clear-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -88,6 +90,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
