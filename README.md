@@ -95,6 +95,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Array
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3693-climbing-stairs-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
@@ -543,6 +545,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Topological Sort
 |  |
 | ------- |
