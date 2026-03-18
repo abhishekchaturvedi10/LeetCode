@@ -60,6 +60,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0767-reorganize-string) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -285,6 +286,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0416-partition-equal-subset-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
