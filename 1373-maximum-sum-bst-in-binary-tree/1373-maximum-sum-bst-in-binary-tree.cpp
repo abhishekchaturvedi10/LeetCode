@@ -2,7 +2,10 @@ class Solution {
 public:
     int ans = 0;
     vector<int> solve(TreeNode* root) {
-        if (!root) return {0, INT_MAX, INT_MIN, 1};
+        
+        if (!root) {
+            return {0, INT_MAX, INT_MIN, 1};
+        }
         
         vector<int> a = solve(root->left);
         vector<int> b = solve(root->right);
