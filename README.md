@@ -147,6 +147,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -437,6 +438,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -449,6 +451,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -465,6 +468,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0295-find-median-from-data-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0962-maximum-width-ramp](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
