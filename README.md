@@ -177,6 +177,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -263,6 +264,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
@@ -401,6 +403,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0419-battleships-in-a-board](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -413,6 +416,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -424,6 +428,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -622,6 +627,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0210-course-schedule-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
