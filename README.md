@@ -42,6 +42,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2707-extra-characters-in-a-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -73,6 +74,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2107-find-unique-binary-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2707-extra-characters-in-a-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3447-clear-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -183,6 +185,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-extra-characters-in-a-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3169-count-days-without-meetings](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3169-count-days-without-meetings) |
@@ -303,12 +306,14 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2707-extra-characters-in-a-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3693-climbing-stairs-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2707-extra-characters-in-a-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
