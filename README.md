@@ -140,6 +140,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0881-boats-to-save-people](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -203,6 +204,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0767-reorganize-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0767-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0881-boats-to-save-people](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
@@ -228,6 +230,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0692-top-k-frequent-words](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0767-reorganize-string) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0881-boats-to-save-people](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -468,6 +471,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0295-find-median-from-data-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0881-boats-to-save-people](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
