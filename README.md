@@ -325,6 +325,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0098-validate-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -346,6 +347,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -371,6 +373,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0098-validate-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -416,6 +419,7 @@ Collection of my accepted LeetCode solutions and their problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0210-course-schedule-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
@@ -611,6 +615,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0002-add-two-numbers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0146-lru-cache) |
