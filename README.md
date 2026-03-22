@@ -143,6 +143,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0692-top-k-frequent-words](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0797-rabbits-in-forest](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0853-most-profit-assigning-work](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0883-car-fleet) |
@@ -298,6 +299,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
