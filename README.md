@@ -56,6 +56,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0076-minimum-window-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -122,6 +123,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0162-find-peak-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -312,6 +314,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2707-extra-characters-in-a-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## Memoization
@@ -410,6 +413,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0063-unique-paths-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -512,6 +516,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0078-subsets](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0212-word-search-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
