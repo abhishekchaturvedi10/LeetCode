@@ -267,6 +267,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -299,6 +300,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -364,6 +366,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -430,6 +433,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0322-coin-change](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -446,6 +450,7 @@ Collection of my accepted LeetCode solutions and their problems.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -653,6 +658,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0210-course-schedule-ii](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Ordered Set
