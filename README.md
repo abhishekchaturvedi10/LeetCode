@@ -165,6 +165,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -214,6 +215,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -465,6 +467,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0962-maximum-width-ramp](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/3447-clear-digits) |
@@ -477,6 +480,7 @@ Collection of my accepted LeetCode solutions and their problems.
 | [0943-sum-of-subarray-minimums](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2227-sum-of-subarray-ranges](https://github.com/abhishekchaturvedi10/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
